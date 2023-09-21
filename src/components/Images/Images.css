@@ -1,0 +1,30 @@
+.images .box1{
+    position: absolute;
+    top: 100px;
+    right: 80px;
+    background: url(../../assets/foto3.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 190px;
+    border: 5px solid gray;
+    height: 350px;
+}
+.images .box2{
+    position: absolute;
+    top: 250px;
+    right: 380px;
+    background: url(../../assets/foto2.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 450px;
+    border: 5px solid gray;
+    height: 250px;
+}
+.images .box3{
+    position: absolute;
+    top: 350px;
+    right: 180px;
+    background: url(../../assets/foto1.jpg) no-repeat 50% 50%;
+    background-size: cover;
+    width: 150px;
+    border: 5px solid gray;
+    height: 200px;
+}
